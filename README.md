@@ -5,6 +5,6 @@ The app works when you get the confirmation message in console output of npm run
 node & postgres
 
 ## How To
-Duplicate `.env.sample` and insert the required values for your setup
+Duplicate and rename properly the `.env.sample` file and fill the required values for your setup
 
 Run `npm run test`
