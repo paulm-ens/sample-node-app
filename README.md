@@ -6,4 +6,5 @@ node & postgres
 
 ## How To
 Duplicate `.env.sample` and insert the required values for your setup
+
 Run `npm run test`
